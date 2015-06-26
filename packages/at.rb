@@ -1,6 +1,6 @@
 require 'package'
 
-class M4 < Package
+class Admin < Package
   version '3.1.16'
   source_url 'http://http.debian.net/debian/pool/main/a/at/at_3.1.16.orig.tar.gz'
 
